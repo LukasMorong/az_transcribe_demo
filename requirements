@@ -1,4 +1,1 @@
-amazon-transcribe
-aiofile
-asyncio
-
+boto3

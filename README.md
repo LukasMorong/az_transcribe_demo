@@ -31,23 +31,16 @@ https://console.aws.amazon.com/iam/home?#security_credential
 Available zones (eu-central-1)
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html
 
-eu-central-1
-
 https://docs.aws.amazon.com/transcribe/latest/dg/getting-started-console.html
 
-Limitations
-60hours
+## DOCS
 
-Audio formats supported for streaming transcriptions are:
+https://docs.aws.amazon.com/transcribe/latest/dg/getting-started-sdk.html
 
-    FLAC
+## COST
 
-    OPUS-encoded audio in an Ogg container
+$0.02400 per minute
+https://aws.amazon.com/transcribe/pricing/
 
-    PCM (only signed 16-bit little-endian audio formats, which does not include WAV)
-
-Language can be chosen or detected automatically
-
-- Czech not included
-
-provides speaker identification
+need for S3 bucket
+https://aws.amazon.com/s3/pricing/
